@@ -3,6 +3,8 @@ Paste.mweldan.com
 
 Source codes of paste.mweldan.com
 
+Basically it let you to post to gist as anonymous user and keep track of what you posted. 
+
 To install:
 ===========
 
